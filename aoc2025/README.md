@@ -1,3 +1,3 @@
-#AOC 2025
+# AOC 2025
 
  - Coded in Java
