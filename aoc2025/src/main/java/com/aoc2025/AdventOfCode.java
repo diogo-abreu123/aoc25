@@ -10,7 +10,7 @@ import java.util.List;
 
 public class AdventOfCode {
     public static void main(String[] args) throws Exception {
-        Day day = new DayOne(readInput("d1.txt"));
+        Day day = new DayTwo(readInput("d2.txt"));
         System.out.println("Part 1: " + day.partOne());
         System.out.println("Part 2: " + day.partTwo());
     }

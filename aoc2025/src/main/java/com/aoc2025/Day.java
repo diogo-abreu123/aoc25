@@ -19,7 +19,7 @@ public abstract class Day {
         this.input = input;
     }
 
-    public abstract int partOne();
+    public abstract long partOne();
 
-    public abstract int partTwo();
+    public abstract long partTwo();
 }
