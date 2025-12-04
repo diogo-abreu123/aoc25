@@ -13,7 +13,7 @@ public class DayOne extends Day{
     }
 
     @Override
-    public int partOne() {
+    public long partOne() {
         int zeroCount = 0;
 
         for(String line: getInput()){
@@ -36,7 +36,7 @@ public class DayOne extends Day{
     }
 
     @Override
-    public int partTwo() {
+    public long partTwo() {
         int zeroCount = 0;
         currentPos = 50;
         
