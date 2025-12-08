@@ -1,6 +1,5 @@
 package com.aoc2025.days;
 
-import java.awt.Point;
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.HashSet;
