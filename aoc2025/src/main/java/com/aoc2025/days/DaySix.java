@@ -134,14 +134,6 @@ public class DaySix extends Day{
             return total;
         }
 
-        public List<Long> getOperands() {
-            return operands;
-        }
-
-        public char getOperation() {
-            return operation;
-        }
-
         public void addOperand(long operand) {
             this.operands.add(operand);
         }
